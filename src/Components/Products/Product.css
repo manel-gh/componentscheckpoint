@@ -1,0 +1,27 @@
+.App {
+    text-align: center;
+  }
+  
+  .list {
+    color: #0f243a;
+    padding: 2%;
+    margin: 4% 20%;
+    border-radius: 30px;
+    border: 2px solid darkblue ;
+  }
+  
+  .list-products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .prod-card {
+    background-color: #a9b2bd;
+    color: rgb(124, 155, 163);
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20px;
+    width: 300px;
+  }
